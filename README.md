@@ -1,7 +1,7 @@
 # Go_MariaDB_RestfulAPI
 
 
-This is a simple restful API build in golang.
+This is a simple restful API built in golang (Go).
 
 Packages used in this project:
 -----------------------------
@@ -29,6 +29,8 @@ Run it
 Install Mariadb on any OS platform 
 
 download the repo
+
+Modify this line in Mariadb.go  ->  dbPass := "your_pwd"
 
 cd GP_MariaDBRestfulAPI && go build
 
