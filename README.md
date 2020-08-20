@@ -6,7 +6,7 @@ This is a simple restful API built in golang (Go).
 Packages used in this project:
 -----------------------------
 
-Gorilla Mux :  github.com/gorilla/handlers     github.com/gorilla/mux
+Gorilla Mux :  `github.com/gorilla/handlers`     `github.com/gorilla/mux`
 
 github.com/go-sql-driver/mysql
 
