@@ -19,6 +19,10 @@ Table Name student
 
 password: set your own 
 
+Functions
+------------
+CRUD + count the number of records
+
 Run it
 -----------
 
