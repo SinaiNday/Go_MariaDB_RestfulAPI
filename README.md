@@ -6,7 +6,7 @@ This is a simple restful API built in golang (Go).
 Packages used in this project:
 -----------------------------
 
-Gorilla Mux
+Gorilla Mux :  github.com/gorilla/handlers     github.com/gorilla/mux
 
 github.com/go-sql-driver/mysql
 
@@ -15,7 +15,7 @@ DB Info
 
 DB name restfulapi
 
-Table Name student
+Table Name students
 
 password: set your own 
 
